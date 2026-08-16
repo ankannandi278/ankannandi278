@@ -89,8 +89,8 @@ My personal developer portfolio showcasing my projects, skills and experience.
 
 🤝 Connect With Me
 
-- 🌐 Portfolio: "Visit My Portfolio" (YOUR_PORTFOLIO_LINK)
-- 💼 LinkedIn: "Connect With Me" (YOUR_LINKEDIN_LINK)
+- 🌐 Portfolio: "Visit My Portfolio" (https://ankannandimyportfolio.vercel.app)
+- 💼 LinkedIn: "Connect With Me" (https://www.linkedin.com/in/ankan-nandi-742121317/)
 - 📧 Email: YOUR_EMAIL
 
 ---
