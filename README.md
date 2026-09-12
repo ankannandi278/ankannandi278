@@ -77,7 +77,7 @@ My personal developer portfolio showcasing my projects, skills and experience.
 
 ---
 
- CareerOS
+🚀 CareerOS
 
 A full-stack AI career intelligence platform for resume analysis, job matching, skill-gap analysis, personalized career roadmaps, GitHub portfolio analysis, mock interviews, and career readiness scoring.
 
