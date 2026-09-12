@@ -77,6 +77,14 @@ My personal developer portfolio showcasing my projects, skills and experience.
 
 ---
 
+ CareerOS
+
+A full-stack AI career intelligence platform for resume analysis, job matching, skill-gap analysis, personalized career roadmaps, GitHub portfolio analysis, mock interviews, and career readiness scoring.
+
+"View Project" (https://github.com/ankannandi278/careeros)
+
+---
+
 📈 Currently Learning
 
 - Advanced React
@@ -91,7 +99,7 @@ My personal developer portfolio showcasing my projects, skills and experience.
 
 - 🌐 Portfolio: "Visit My Portfolio" (https://ankannandimyportfolio.vercel.app)
 - 💼 LinkedIn: "Connect With Me" (https://www.linkedin.com/in/ankan-nandi-742121317/)
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: ankannandi81@gmail.com
 
 ---
 
